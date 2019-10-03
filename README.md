@@ -1,4 +1,4 @@
-# Tic-Tac-Toe(Command Line APplication)
+# Tic-Tac-Toe(Command Line Application)
 
 ### Setup Instructions
 
