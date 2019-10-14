@@ -23,6 +23,12 @@
   python main.py or python3 main.py
   ```
 
+* Run tests
+
+  ```
+  python -m unittest discover  -v
+  ```
+
 * Run code on Repl.it by visiting
   ```
   https://repl.it/@tonyguesswho/OrangeDefenselessByte
